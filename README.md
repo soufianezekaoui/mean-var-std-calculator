@@ -143,7 +143,7 @@ This project is part of the freeCodeCamp curriculum and is available for educati
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub](https://github.com/soufianezekaoui)
+SOUFIANE ZEKAOUI - [GitHub](https://github.com/soufianezekaoui)
 
 ---
 
