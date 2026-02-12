@@ -34,7 +34,7 @@ The `calculate()` function takes a list of 9 numbers and:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/mean-var-std-calculator.git
+git clone https://github.com/soufianezekaoui/mean-var-std-calculator.git
 cd mean-var-std-calculator
 
 # Install dependencies
@@ -64,7 +64,7 @@ print(result)
 try:
     calculate([1, 2, 3])  # Only 3 elements
 except ValueError as e:
-    print(e)  # "List must contain nine numbers."
+    print(e)  # "The list must contain nine numbers."
 ```
 
 ## 🧮 How It Works
@@ -135,7 +135,7 @@ This project demonstrates:
 
 - [freeCodeCamp Project Page](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 - [NumPy Documentation](https://numpy.org/doc/)
-- [My freeCodeCamp Profile](https://www.freecodecamp.org/YOUR-USERNAME)
+- [My freeCodeCamp Profile](https://www.freecodecamp.org/soufzeka19371020)
 
 ## 📝 License
 
@@ -143,7 +143,7 @@ This project is part of the freeCodeCamp curriculum and is available for educati
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub](https://github.com/YOUR-USERNAME)
+Your Name - [GitHub](https://github.com/soufianezekaoui)
 
 ---
 
